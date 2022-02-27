@@ -45,6 +45,7 @@ loadingAnimation();
 const divider = document.querySelector("[data-divider]");
 window.addEventListener("load", () => {
   if (window.matchMedia("min-width: 23rem")) {
-    divider.setAttribute("src", "./images/pattern-divider-mobile.svg");
+    // divider.setAttribute("src", "./images/pattern-divider-mobile.svg");
+    console.log("from divider");
   }
 });
