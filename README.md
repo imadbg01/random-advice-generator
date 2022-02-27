@@ -37,12 +37,12 @@ Users should be able to generate random advice using the [Advice Slip API](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./demo.gif)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/imadbg01/random-advice-generator)
+- Live Site URL: [Random advice generator](https://random-advice-generator-4jfphctou-imadbg01.vercel.app/)
 
 ## My process
 
@@ -77,8 +77,6 @@ const getData = fetch("https://someExternalAPI.com")
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
@@ -86,9 +84,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Github - [imad bg](https://www.github.com/imadbg01)
+- Github - [imadbg01](https://www.github.com/imadbg01)
 - Frontend Mentor - [@imadbg01](https://www.frontendmentor.io/profile/imadbg01)
-- Twitter - [@imadbg04](https://www.twitter.com/imadbg04)
+- Twitter - [@imadbg4](https://www.twitter.com/imadbg4)
 
 ## Acknowledgments
 
